@@ -2,7 +2,18 @@ hr {
 	width: 80%;
 }
 
-#page-content {
-	padding: 1rem 5%;
+nav {
+	margin-bottom: 1em;
 }
 
+#page-content {
+	padding: 1em 5%;
+}
+
+#navbarSupportedContent {
+	justify-content: flex-end;
+}
+
+#navbarSupportedContent .navbar-nav {
+	margin-right: 1em;
+}
